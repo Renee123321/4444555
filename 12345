@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html >
+    <head>
+        <style>@import
+        url("data:text/css;charset=UTF-8;body{background-color:#eee}");
+        div{border:2px solid green;width:120px;height:80px;}</style></head><body><div>绿框方块</div></body></html>
