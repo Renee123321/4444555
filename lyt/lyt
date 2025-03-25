@@ -1,0 +1,7 @@
+import random
+n = random.randint(1,5)
+while True:
+    g = int(input("猜数(1-5):"))
+    if g < n: print("小了")
+    elif g > n: print("大了")
+    else: print("对了~"); breaks
